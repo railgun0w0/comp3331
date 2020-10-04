@@ -1,0 +1,55 @@
+PING www.dlsu.edu.ph (103.231.241.180) 472(500) bytes of data.
+480 bytes from 103.231.241.180: icmp_seq=1 ttl=114 time=299 ms
+480 bytes from 103.231.241.180: icmp_seq=2 ttl=114 time=299 ms
+480 bytes from 103.231.241.180: icmp_seq=3 ttl=114 time=299 ms
+480 bytes from 103.231.241.180: icmp_seq=4 ttl=114 time=299 ms
+480 bytes from 103.231.241.180: icmp_seq=5 ttl=114 time=299 ms
+480 bytes from 103.231.241.180: icmp_seq=6 ttl=114 time=299 ms
+480 bytes from 103.231.241.180: icmp_seq=7 ttl=114 time=299 ms
+480 bytes from 103.231.241.180: icmp_seq=8 ttl=114 time=299 ms
+480 bytes from 103.231.241.180: icmp_seq=9 ttl=114 time=298 ms
+480 bytes from 103.231.241.180: icmp_seq=10 ttl=114 time=299 ms
+480 bytes from 103.231.241.180: icmp_seq=11 ttl=114 time=299 ms
+480 bytes from 103.231.241.180: icmp_seq=12 ttl=114 time=299 ms
+480 bytes from 103.231.241.180: icmp_seq=13 ttl=114 time=300 ms
+480 bytes from 103.231.241.180: icmp_seq=14 ttl=114 time=299 ms
+480 bytes from 103.231.241.180: icmp_seq=15 ttl=114 time=299 ms
+480 bytes from 103.231.241.180: icmp_seq=16 ttl=114 time=299 ms
+480 bytes from 103.231.241.180: icmp_seq=17 ttl=114 time=299 ms
+480 bytes from 103.231.241.180: icmp_seq=18 ttl=114 time=299 ms
+480 bytes from 103.231.241.180: icmp_seq=19 ttl=114 time=299 ms
+480 bytes from 103.231.241.180: icmp_seq=20 ttl=114 time=299 ms
+480 bytes from 103.231.241.180: icmp_seq=21 ttl=114 time=299 ms
+480 bytes from 103.231.241.180: icmp_seq=22 ttl=114 time=299 ms
+480 bytes from 103.231.241.180: icmp_seq=23 ttl=114 time=298 ms
+480 bytes from 103.231.241.180: icmp_seq=24 ttl=114 time=299 ms
+480 bytes from 103.231.241.180: icmp_seq=25 ttl=114 time=299 ms
+480 bytes from 103.231.241.180: icmp_seq=26 ttl=114 time=299 ms
+480 bytes from 103.231.241.180: icmp_seq=27 ttl=114 time=299 ms
+480 bytes from 103.231.241.180: icmp_seq=28 ttl=114 time=299 ms
+480 bytes from 103.231.241.180: icmp_seq=29 ttl=114 time=299 ms
+480 bytes from 103.231.241.180: icmp_seq=30 ttl=114 time=299 ms
+480 bytes from 103.231.241.180: icmp_seq=31 ttl=114 time=299 ms
+480 bytes from 103.231.241.180: icmp_seq=32 ttl=114 time=299 ms
+480 bytes from 103.231.241.180: icmp_seq=33 ttl=114 time=299 ms
+480 bytes from 103.231.241.180: icmp_seq=34 ttl=114 time=299 ms
+480 bytes from 103.231.241.180: icmp_seq=35 ttl=114 time=299 ms
+480 bytes from 103.231.241.180: icmp_seq=36 ttl=114 time=299 ms
+480 bytes from 103.231.241.180: icmp_seq=37 ttl=114 time=299 ms
+480 bytes from 103.231.241.180: icmp_seq=38 ttl=114 time=299 ms
+480 bytes from 103.231.241.180: icmp_seq=39 ttl=114 time=299 ms
+480 bytes from 103.231.241.180: icmp_seq=40 ttl=114 time=299 ms
+480 bytes from 103.231.241.180: icmp_seq=41 ttl=114 time=299 ms
+480 bytes from 103.231.241.180: icmp_seq=42 ttl=114 time=299 ms
+480 bytes from 103.231.241.180: icmp_seq=43 ttl=114 time=299 ms
+480 bytes from 103.231.241.180: icmp_seq=44 ttl=114 time=299 ms
+480 bytes from 103.231.241.180: icmp_seq=45 ttl=114 time=299 ms
+480 bytes from 103.231.241.180: icmp_seq=46 ttl=114 time=299 ms
+480 bytes from 103.231.241.180: icmp_seq=47 ttl=114 time=299 ms
+480 bytes from 103.231.241.180: icmp_seq=48 ttl=114 time=298 ms
+480 bytes from 103.231.241.180: icmp_seq=49 ttl=114 time=298 ms
+480 bytes from 103.231.241.180: icmp_seq=50 ttl=114 time=299 ms
+
+--- www.dlsu.edu.ph ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 74323ms
+rtt min/avg/max/mdev = 298.836/299.285/300.047/0.468 ms

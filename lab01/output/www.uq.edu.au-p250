@@ -1,0 +1,55 @@
+PING www.uq.edu.au (130.102.184.3) 222(250) bytes of data.
+230 bytes from archive.its.uq.edu.au (130.102.184.3): icmp_seq=1 ttl=239 time=17.4 ms
+230 bytes from archive.its.uq.edu.au (130.102.184.3): icmp_seq=2 ttl=239 time=17.3 ms
+230 bytes from archive.its.uq.edu.au (130.102.184.3): icmp_seq=3 ttl=239 time=17.5 ms
+230 bytes from archive.its.uq.edu.au (130.102.184.3): icmp_seq=4 ttl=239 time=17.2 ms
+230 bytes from archive.its.uq.edu.au (130.102.184.3): icmp_seq=5 ttl=239 time=17.5 ms
+230 bytes from archive.its.uq.edu.au (130.102.184.3): icmp_seq=6 ttl=239 time=17.3 ms
+230 bytes from archive.its.uq.edu.au (130.102.184.3): icmp_seq=7 ttl=239 time=17.3 ms
+230 bytes from archive.its.uq.edu.au (130.102.184.3): icmp_seq=8 ttl=239 time=17.5 ms
+230 bytes from archive.its.uq.edu.au (130.102.184.3): icmp_seq=9 ttl=239 time=17.3 ms
+230 bytes from archive.its.uq.edu.au (130.102.184.3): icmp_seq=10 ttl=239 time=17.2 ms
+230 bytes from archive.its.uq.edu.au (130.102.184.3): icmp_seq=11 ttl=239 time=17.3 ms
+230 bytes from archive.its.uq.edu.au (130.102.184.3): icmp_seq=12 ttl=239 time=17.3 ms
+230 bytes from archive.its.uq.edu.au (130.102.184.3): icmp_seq=13 ttl=239 time=17.3 ms
+230 bytes from archive.its.uq.edu.au (130.102.184.3): icmp_seq=14 ttl=239 time=17.3 ms
+230 bytes from archive.its.uq.edu.au (130.102.184.3): icmp_seq=15 ttl=239 time=17.3 ms
+230 bytes from archive.its.uq.edu.au (130.102.184.3): icmp_seq=16 ttl=239 time=17.5 ms
+230 bytes from archive.its.uq.edu.au (130.102.184.3): icmp_seq=17 ttl=239 time=17.6 ms
+230 bytes from archive.its.uq.edu.au (130.102.184.3): icmp_seq=18 ttl=239 time=17.5 ms
+230 bytes from archive.its.uq.edu.au (130.102.184.3): icmp_seq=19 ttl=239 time=17.7 ms
+230 bytes from archive.its.uq.edu.au (130.102.184.3): icmp_seq=20 ttl=239 time=17.1 ms
+230 bytes from archive.its.uq.edu.au (130.102.184.3): icmp_seq=21 ttl=239 time=17.6 ms
+230 bytes from archive.its.uq.edu.au (130.102.184.3): icmp_seq=22 ttl=239 time=17.6 ms
+230 bytes from archive.its.uq.edu.au (130.102.184.3): icmp_seq=23 ttl=239 time=17.5 ms
+230 bytes from archive.its.uq.edu.au (130.102.184.3): icmp_seq=24 ttl=239 time=17.6 ms
+230 bytes from archive.its.uq.edu.au (130.102.184.3): icmp_seq=25 ttl=239 time=17.5 ms
+230 bytes from archive.its.uq.edu.au (130.102.184.3): icmp_seq=26 ttl=239 time=17.3 ms
+230 bytes from archive.its.uq.edu.au (130.102.184.3): icmp_seq=27 ttl=239 time=17.4 ms
+230 bytes from archive.its.uq.edu.au (130.102.184.3): icmp_seq=28 ttl=239 time=17.3 ms
+230 bytes from archive.its.uq.edu.au (130.102.184.3): icmp_seq=29 ttl=239 time=17.5 ms
+230 bytes from archive.its.uq.edu.au (130.102.184.3): icmp_seq=30 ttl=239 time=17.2 ms
+230 bytes from archive.its.uq.edu.au (130.102.184.3): icmp_seq=31 ttl=239 time=17.3 ms
+230 bytes from archive.its.uq.edu.au (130.102.184.3): icmp_seq=32 ttl=239 time=17.4 ms
+230 bytes from archive.its.uq.edu.au (130.102.184.3): icmp_seq=33 ttl=239 time=17.3 ms
+230 bytes from archive.its.uq.edu.au (130.102.184.3): icmp_seq=34 ttl=239 time=17.5 ms
+230 bytes from archive.its.uq.edu.au (130.102.184.3): icmp_seq=35 ttl=239 time=17.5 ms
+230 bytes from archive.its.uq.edu.au (130.102.184.3): icmp_seq=36 ttl=239 time=17.5 ms
+230 bytes from archive.its.uq.edu.au (130.102.184.3): icmp_seq=37 ttl=239 time=17.5 ms
+230 bytes from archive.its.uq.edu.au (130.102.184.3): icmp_seq=38 ttl=239 time=17.4 ms
+230 bytes from archive.its.uq.edu.au (130.102.184.3): icmp_seq=39 ttl=239 time=17.5 ms
+230 bytes from archive.its.uq.edu.au (130.102.184.3): icmp_seq=40 ttl=239 time=17.5 ms
+230 bytes from archive.its.uq.edu.au (130.102.184.3): icmp_seq=41 ttl=239 time=17.4 ms
+230 bytes from archive.its.uq.edu.au (130.102.184.3): icmp_seq=42 ttl=239 time=17.3 ms
+230 bytes from archive.its.uq.edu.au (130.102.184.3): icmp_seq=43 ttl=239 time=17.3 ms
+230 bytes from archive.its.uq.edu.au (130.102.184.3): icmp_seq=44 ttl=239 time=17.4 ms
+230 bytes from archive.its.uq.edu.au (130.102.184.3): icmp_seq=45 ttl=239 time=17.7 ms
+230 bytes from archive.its.uq.edu.au (130.102.184.3): icmp_seq=46 ttl=239 time=17.2 ms
+230 bytes from archive.its.uq.edu.au (130.102.184.3): icmp_seq=47 ttl=239 time=17.3 ms
+230 bytes from archive.its.uq.edu.au (130.102.184.3): icmp_seq=48 ttl=239 time=17.4 ms
+230 bytes from archive.its.uq.edu.au (130.102.184.3): icmp_seq=49 ttl=239 time=17.6 ms
+230 bytes from archive.its.uq.edu.au (130.102.184.3): icmp_seq=50 ttl=239 time=17.2 ms
+
+--- www.uq.edu.au ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 49077ms
+rtt min/avg/max/mdev = 17.172/17.454/17.776/0.176 ms

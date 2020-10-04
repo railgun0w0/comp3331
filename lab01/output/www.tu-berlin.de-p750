@@ -1,0 +1,55 @@
+PING www.tu-berlin.de (130.149.7.201) 722(750) bytes of data.
+730 bytes from tu-berlin.de (130.149.7.201): icmp_seq=1 ttl=242 time=273 ms
+730 bytes from tu-berlin.de (130.149.7.201): icmp_seq=2 ttl=242 time=273 ms
+730 bytes from tu-berlin.de (130.149.7.201): icmp_seq=3 ttl=242 time=273 ms
+730 bytes from tu-berlin.de (130.149.7.201): icmp_seq=4 ttl=242 time=273 ms
+730 bytes from tu-berlin.de (130.149.7.201): icmp_seq=5 ttl=242 time=273 ms
+730 bytes from tu-berlin.de (130.149.7.201): icmp_seq=6 ttl=242 time=273 ms
+730 bytes from tu-berlin.de (130.149.7.201): icmp_seq=7 ttl=242 time=273 ms
+730 bytes from tu-berlin.de (130.149.7.201): icmp_seq=8 ttl=242 time=273 ms
+730 bytes from tu-berlin.de (130.149.7.201): icmp_seq=9 ttl=242 time=273 ms
+730 bytes from tu-berlin.de (130.149.7.201): icmp_seq=10 ttl=242 time=273 ms
+730 bytes from tu-berlin.de (130.149.7.201): icmp_seq=11 ttl=242 time=273 ms
+730 bytes from tu-berlin.de (130.149.7.201): icmp_seq=12 ttl=242 time=273 ms
+730 bytes from tu-berlin.de (130.149.7.201): icmp_seq=13 ttl=242 time=273 ms
+730 bytes from tu-berlin.de (130.149.7.201): icmp_seq=14 ttl=242 time=273 ms
+730 bytes from tu-berlin.de (130.149.7.201): icmp_seq=15 ttl=242 time=273 ms
+730 bytes from tu-berlin.de (130.149.7.201): icmp_seq=16 ttl=242 time=273 ms
+730 bytes from tu-berlin.de (130.149.7.201): icmp_seq=17 ttl=242 time=273 ms
+730 bytes from tu-berlin.de (130.149.7.201): icmp_seq=18 ttl=242 time=273 ms
+730 bytes from tu-berlin.de (130.149.7.201): icmp_seq=19 ttl=242 time=273 ms
+730 bytes from tu-berlin.de (130.149.7.201): icmp_seq=20 ttl=242 time=273 ms
+730 bytes from tu-berlin.de (130.149.7.201): icmp_seq=21 ttl=242 time=273 ms
+730 bytes from tu-berlin.de (130.149.7.201): icmp_seq=22 ttl=242 time=273 ms
+730 bytes from tu-berlin.de (130.149.7.201): icmp_seq=23 ttl=242 time=273 ms
+730 bytes from tu-berlin.de (130.149.7.201): icmp_seq=24 ttl=242 time=273 ms
+730 bytes from tu-berlin.de (130.149.7.201): icmp_seq=25 ttl=242 time=273 ms
+730 bytes from tu-berlin.de (130.149.7.201): icmp_seq=26 ttl=242 time=273 ms
+730 bytes from tu-berlin.de (130.149.7.201): icmp_seq=27 ttl=242 time=273 ms
+730 bytes from tu-berlin.de (130.149.7.201): icmp_seq=28 ttl=242 time=273 ms
+730 bytes from tu-berlin.de (130.149.7.201): icmp_seq=29 ttl=242 time=273 ms
+730 bytes from tu-berlin.de (130.149.7.201): icmp_seq=30 ttl=242 time=273 ms
+730 bytes from tu-berlin.de (130.149.7.201): icmp_seq=31 ttl=242 time=273 ms
+730 bytes from tu-berlin.de (130.149.7.201): icmp_seq=32 ttl=242 time=273 ms
+730 bytes from tu-berlin.de (130.149.7.201): icmp_seq=33 ttl=242 time=273 ms
+730 bytes from tu-berlin.de (130.149.7.201): icmp_seq=34 ttl=242 time=273 ms
+730 bytes from tu-berlin.de (130.149.7.201): icmp_seq=35 ttl=242 time=273 ms
+730 bytes from tu-berlin.de (130.149.7.201): icmp_seq=36 ttl=242 time=273 ms
+730 bytes from tu-berlin.de (130.149.7.201): icmp_seq=37 ttl=242 time=273 ms
+730 bytes from tu-berlin.de (130.149.7.201): icmp_seq=38 ttl=242 time=273 ms
+730 bytes from tu-berlin.de (130.149.7.201): icmp_seq=39 ttl=242 time=273 ms
+730 bytes from tu-berlin.de (130.149.7.201): icmp_seq=40 ttl=242 time=273 ms
+730 bytes from tu-berlin.de (130.149.7.201): icmp_seq=41 ttl=242 time=273 ms
+730 bytes from tu-berlin.de (130.149.7.201): icmp_seq=42 ttl=242 time=273 ms
+730 bytes from tu-berlin.de (130.149.7.201): icmp_seq=43 ttl=242 time=273 ms
+730 bytes from tu-berlin.de (130.149.7.201): icmp_seq=44 ttl=242 time=273 ms
+730 bytes from tu-berlin.de (130.149.7.201): icmp_seq=45 ttl=242 time=273 ms
+730 bytes from tu-berlin.de (130.149.7.201): icmp_seq=46 ttl=242 time=273 ms
+730 bytes from tu-berlin.de (130.149.7.201): icmp_seq=47 ttl=242 time=273 ms
+730 bytes from tu-berlin.de (130.149.7.201): icmp_seq=48 ttl=242 time=273 ms
+730 bytes from tu-berlin.de (130.149.7.201): icmp_seq=49 ttl=242 time=273 ms
+730 bytes from tu-berlin.de (130.149.7.201): icmp_seq=50 ttl=242 time=273 ms
+
+--- www.tu-berlin.de ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 49074ms
+rtt min/avg/max/mdev = 273.517/273.627/273.799/0.719 ms
